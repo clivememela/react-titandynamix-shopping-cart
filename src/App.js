@@ -7,7 +7,7 @@ function App() {
         <a href="/">React Shopping Cart</a>
       </header>
       <main>
-        Product  List  
+        Product List  
       </main>
       <footer>
         All rights reserved Titan Dynamix Pty Ltd
